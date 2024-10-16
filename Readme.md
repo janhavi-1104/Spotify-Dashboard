@@ -75,11 +75,6 @@ You can customize the dashboard by modifying the following aspects:
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or create a pull request.
 
-## Contact Us 📧
-
-If you have any questions or need further assistance, please feel free to contact us at [email](mailto:yourname@example.com).  
-OR  
-Reach out to us using the [Contact Form](https://forms.gle/yourformlink).
 
 ## Inspirational Quote for Data Enthusiasts 📊
 > #### "Music is data, and behind every stream is a story waiting to be told." 🎧
